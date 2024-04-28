@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\technology_kida.props" />
+</Project>

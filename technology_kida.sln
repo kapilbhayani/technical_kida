@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "technology_kida", "technology_kida.csproj", "{27AEDA27-98FE-4DC2-B839-9D4C0C1C8AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLeyer", "..\DataAccessLeyer\DataAccessLeyer.csproj", "{CA6AA871-16F6-416A-BA12-01FC40EE95A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27AEDA27-98FE-4DC2-B839-9D4C0C1C8AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AEDA27-98FE-4DC2-B839-9D4C0C1C8AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AEDA27-98FE-4DC2-B839-9D4C0C1C8AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AEDA27-98FE-4DC2-B839-9D4C0C1C8AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6AA871-16F6-416A-BA12-01FC40EE95A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6AA871-16F6-416A-BA12-01FC40EE95A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6AA871-16F6-416A-BA12-01FC40EE95A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6AA871-16F6-416A-BA12-01FC40EE95A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B9F0C24-1110-4529-918F-C8EFBDC00A29}
+	EndGlobalSection
+EndGlobal
